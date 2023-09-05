@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsCompose</string>
+    <string name="loading">Loading\n</string>
+    <string name="content_description">Contenet Description</string>
+</resources>
